@@ -16,6 +16,17 @@ Watch the complete AI CRM Automation workflow in action.
 ▶️ **Demo Video:** [https://www.linkedin.com/posts/your-post-link](https://www.linkedin.com/posts/kripa-shankar-chaudhari_ai-generativeai-googlegemini-ugcPost-7486333325230432256-Hwsl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACTOR20B3qcV0GmuJvtI6xCvnRkJQ7Hkd3g)
 
 ---
+## ⭐ Support the Project
+
+If you found this project helpful, please consider:
+
+- ⭐ **Star** the repository
+- 🍴 **Fork** it
+- 💬 **Share your feedback** by opening an issue or starting a discussion
+
+Your support helps improve the project and motivates me to build more open-source solutions. 🚀
+
+---
 
 # 📖 Project Overview
 
